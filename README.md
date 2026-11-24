@@ -8,7 +8,7 @@
 
 | Skill | 一句话说明 | 当前版本 | 快速直达 |
 | :--- | :--- | :--- | :--- |
-| **[talking-head-cut-skill](https://github.com/anvilreason/talking-head-cut-skill)** | **口播精剪 Skill**：即兴主线拆条与黄金 3 秒结构重排 + 波形级呼吸感气口精剪 + 自然中文整句字幕 + 4 类语义卡点音效 SFX + 手机端防遮挡安全区与高留存 MG，开箱即用 | `v4.2.0` | [查看 & 一键复制](https://github.com/anvilreason/talking-head-cut-skill) |
+| **[talking-head-cut-skill](https://github.com/anvilreason/talking-head-cut-skill)** | **口播精剪 Skill**：即兴主线拆条与黄金 3 秒结构重排 + 开头衬线大字与常规字幕隔离 + 双轨语义卡点 SFX + 波形级呼吸感气口精剪 + 手机端防遮挡安全区与高留存 MG，开箱即用 | `v4.3.0` | [查看 & 一键复制](https://github.com/anvilreason/talking-head-cut-skill) |
 
 ---
 
